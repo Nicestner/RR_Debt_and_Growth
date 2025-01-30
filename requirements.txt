@@ -1,0 +1,6 @@
+ggplot2
+readxl
+plyr
+dplyr
+tidyr # reshape wide to long formats
+forcats # reorder columns 
